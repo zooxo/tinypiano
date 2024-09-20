@@ -6,7 +6,7 @@
 ## How to install?
 Copy the complete TinyPiano folder to your MPC (to the Expansions folder).
 
-## Which instruments?
+## Which pianos?
 * Bechstein
 * Fret
 * Hammer
