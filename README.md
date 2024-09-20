@@ -1,4 +1,4 @@
-# TinyPiano -A Free MPC Expansion Pack
+# TinyPiano - A Free MPC Expansion Pack
 ### Versatile Multisampled Piano Instruments (Keygroups)
 
 -----
