@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<expansion version="1.0.0.0" buildVersion="2.15.0.18">
+  <local/>
+  <identifier>com.mpc.tinypiano</identifier>
+  <title>1 TinyPiano</title>
+  <manufacturer>deetee</manufacturer>
+  <version>1.0.0.0</version>
+  <type>drum</type>
+  <priority>50</priority>
+  <img>TinyPiano.png</img>
+  <description>Keygroups of Dedicated Pianos</description>
+  <separator>-</separator>
+</expansion>
